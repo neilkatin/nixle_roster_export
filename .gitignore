@@ -1,0 +1,4 @@
+node_modules
+*.swp
+.clasp.json
+appsscript.json
